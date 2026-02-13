@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: #f0f0f0; /* light gray background */
+  font-family: Arial, sans-serif; /* clean font for the whole page */
+}
+
+h1 {
+  color: #2c3e50; /* dark blue/gray */
+  font-size: 48px; /* big enough to notice */
+  margin-top: 50px; /* some space from top */
+  text-shadow: 4px 4px 8px #aaa; /* subtle shadow for depth */
+}
